@@ -1,0 +1,15 @@
+{
+    "users": [{
+      "name": "Ayoub moutii",
+      "age": 24,
+      "email": "Ayoub@email.com"
+    }, {
+      "name": "Mohammed ROnaldo",
+      "age": 21,
+      "email": "ROnaldo@email.com"
+    }, {
+      "name": "Amina Tamil",
+      "age": 31,
+      "email": "Amina@email.com"
+    }]
+  }
