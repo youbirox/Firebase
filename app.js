@@ -110,7 +110,7 @@ function addUserBtnClicked() {
 	const usersRef = dbRef.child('users');
 
 	const addUserInputsUI = document.getElementsByClassName("user-input");
-
+	console.log(addUserInputsUI)
  	// this object will hold the new user information
     let newUser = {};
 
